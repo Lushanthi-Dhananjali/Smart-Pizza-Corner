@@ -1,0 +1,201 @@
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.exe
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Upeka Nanayakkara\OneDrive\Desktop\cafe\WinFormsApp123\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.exe
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+C:\Users\LUSHANTHI\OneDrive\Desktop\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.exe
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\itextsharp.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\WinFormsApp123.exe
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\itextsharp.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.Form4_2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (8)\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\WinFormsApp123.exe
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\itextsharp.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4_2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (15) - Copy\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.exe
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\itextsharp.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4_2.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+E:\new-web-upeka\Web and DesktopApplication\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.exe
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.deps.json
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.runtimeconfig.json
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\WinFormsApp123.pdb
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\itextsharp.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.AssemblyReference.cache
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form1.resources
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form2.resources
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4.resources
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Form4_2.resources
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.Properties.Resources.resources
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.GenerateResource.cache
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfoInputs.cache
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.AssemblyInfo.cs
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.csproj.CoreCompileInputs.cache
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.sourcelink.json
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinForms.A6E4F80A.Up2Date
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\refint\WinFormsApp123.dll
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.pdb
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\WinFormsApp123.genruntimeconfig.cache
+D:\Pizza\Smart-Pizza-Corner\Desktop Application\desktop1\WinFormsApp123 - Copy (17) - Copy - Copy\obj\Debug\net8.0-windows\ref\WinFormsApp123.dll
