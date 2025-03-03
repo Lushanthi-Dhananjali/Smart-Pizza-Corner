@@ -85,7 +85,7 @@
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "D:\\Pizza\\Smart-Pizza-Corner\\Desktop Application\\desktop1\\WinFormsApp123 - Copy (17) - Copy - Copy\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T11:36:55.841Z",
               "EditorCaption": ""
@@ -110,7 +110,8 @@
               "ToolTip": "D:\\Pizza\\Smart-Pizza-Corner\\Desktop Application\\desktop1\\WinFormsApp123 - Copy (17) - Copy - Copy\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T15:48:50.543Z"
+              "WhenOpened": "2024-12-27T15:48:50.543Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -145,7 +146,8 @@
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAALYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T09:38:37.706Z"
+              "WhenOpened": "2024-12-27T09:38:37.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
